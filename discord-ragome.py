@@ -4,12 +4,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
-import discord, random
+import discord
 from discord.ext import commands
 import asyncio
 import nest_asyncio
 import time
-import asyncio
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 from selenium.webdriver.common.by import By
 # Chrome driver 자동 업데이트
