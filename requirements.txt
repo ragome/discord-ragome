@@ -3,6 +3,7 @@ selenium==4.24.0
 webdriver_manager.py==4.0.2
 asyncio
 beautifulsoup4
+pip
 requests
 lxml
 urllib3
