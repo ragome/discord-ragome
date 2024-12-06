@@ -1,5 +1,5 @@
 discord.py==2.3.2
-selenium==4.31.1
+selenium==4.24.0
 webdriver_manager.py==4.0.2
 asyncio
 beautifulsoup4
