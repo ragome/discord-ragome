@@ -1,0 +1,10 @@
+discord.py==2.3.2
+selenium==4.31.1
+webdriver_manager.py==4.0.2
+asyncio
+pip
+beautifulsoup4
+requests
+lxml
+urllib3
+Options
